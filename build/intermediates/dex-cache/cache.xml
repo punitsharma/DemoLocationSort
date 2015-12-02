@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/pre-dexed/debug/classes-51bd6fe12397beb0b1c23f39aae185a0939ad0a1.jar" />
+    </item>
+    <item
+        jar="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/pre-dexed/debug/classes-ceeff854b6f01902155e28abec1e3d3bba894c9d.jar" />
+    </item>
+    <item
+        jar="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/pre-dexed/debug/classes-59a290a2ed829fa87f008de94ffc8811cb832ed8.jar" />
+    </item>
+    <item
+        jar="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/exploded-aar/io.nlopez.smartlocation/library/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f005bd05449fbd99a9f9baa8fa01631017bbaf8">
+        <dex dex="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/pre-dexed/debug/classes-827ea4fb7b078341c559d55587a51d952481bfc7.jar" />
+    </item>
+    <item
+        jar="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/punitsharma/Mobiquity/Projects/Mac/DemoLocationSort/app/build/intermediates/pre-dexed/debug/classes-6f031977a18cecdc6593602e6dad00bda64bc834.jar" />
+    </item>
+
+</items>
